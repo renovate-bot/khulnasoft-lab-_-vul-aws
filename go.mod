@@ -43,7 +43,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sts v1.21.2
 	github.com/aws/aws-sdk-go-v2/service/workspaces v1.23.0
 	github.com/khulnasoft-lab/defsec v1.0.4
-	github.com/khulnasoft-lab/go-mock-aws v1.0.0
+	github.com/khulnasoft-lab/go-mock-aws v1.0.1
 	github.com/khulnasoft-lab/vul-policies v0.0.0-20230922215546-a6e0d46524e8
 	github.com/liamg/iamgo v0.0.9
 	github.com/sirupsen/logrus v1.9.3
